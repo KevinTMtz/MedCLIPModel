@@ -6,9 +6,4 @@ cases_images
 tfrecords
 
 # Models
-caption_weights
-text_encoder
-vision_encoder
-
-# Models For Web
-web_models
+models
