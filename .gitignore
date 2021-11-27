@@ -2,6 +2,7 @@
 .ipynb_checkpoints
 
 # Dataset
+CheXpert-v1.0-small
 cases_images
 tfrecords
 
