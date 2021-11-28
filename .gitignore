@@ -1,9 +1,13 @@
 # Notebooks checkpoints
 .ipynb_checkpoints
 
-# Dataset
+# Dataset - MedPix
 cases_images
-tfrecords
+
+# Dataset - CheXpert-v1.0-small
+train
+valid
 
 # Models
+tfrecords
 models
